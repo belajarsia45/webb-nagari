@@ -1,0 +1,28 @@
+.carousel-item {
+    height: 100vh;
+}
+nav .isi{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+}
+footer{
+    background-color: black;
+}
+.sosial img{
+    margin-right: 6px;
+}
+
+#pengumuman .carousel-inner{
+    width:100%;
+    max-height: 300px !important;
+  }
+
+.admin-login-info {
+    margin-top: 20px; /* Sesuaikan sesuai kebutuhan */
+  }
+  .form-login-admin{
+    max-width: 60%; /* Sesuaikan lebar maksimum formulir sesuai kebutuhan */
+    margin: 0 auto; /* Pusatkan formulir di tengah */
+}
+
